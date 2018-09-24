@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "patatap clone using canvajs",
   "scripts": {
-    "start": "serve"
+    "start": "serve circles.html"
   },
-  "main": "circles.html",
   "author": "William Chou",
   "license": "ISC",
   "dependencies": {
