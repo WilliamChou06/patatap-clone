@@ -5,6 +5,7 @@
   "scripts": {
     "start": "serve"
   },
+  "main": "circles.html",
   "author": "William Chou",
   "license": "ISC",
   "dependencies": {
